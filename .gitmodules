@@ -1,0 +1,3 @@
+[submodule "socketclient"]
+	path = socketclient
+	url = https://github.com/HoucemMab/socketiotest.git
